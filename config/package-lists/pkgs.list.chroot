@@ -43,7 +43,10 @@ popularity-contest
 tig
 git
 
-# Terminus Fonts
+# Themes and Fonts
+arc-theme
+tango-icon-theme
+gnome-themes-extra
 fonts-terminus
 xfonts-terminus
 
@@ -132,6 +135,7 @@ indent
 htop
 wipe
 shc
+at
 zip
 tree
 gettext

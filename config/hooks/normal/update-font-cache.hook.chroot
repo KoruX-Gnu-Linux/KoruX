@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+# Update font cache so new fonts can be used
+fc-cache -f

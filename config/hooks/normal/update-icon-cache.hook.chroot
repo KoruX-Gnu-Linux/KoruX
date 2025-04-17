@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -e
+
+# Remove warnings from:
+# Settings -> Appearance -> Icons
+update-icon-caches /usr/share/icons/*
