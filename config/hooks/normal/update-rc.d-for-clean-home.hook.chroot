@@ -2,4 +2,5 @@
 
 set -e
 
+# Enable clean-home in startup
 update-rc.d clean-home defaults
